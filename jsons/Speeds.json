@@ -1,12 +1,12 @@
 [
     {
         "name": "SPEED_GAME_1",
-        "productionCostModifier": 0.5,
+        "productionCostModifier": 0.3,
         "goldCostModifier": 0.1,
-        "scienceCostModifier": 0.3,
-        "faithCostModifier": 0.5,
-        "improvementBuildLengthModifier": 0.3,
-        "modifier": 0.5,
+        "scienceCostModifier": 0.2,
+        "faithCostModifier": 0.3,
+        "improvementBuildLengthModifier": 0.2,
+        "modifier": 0.3,
         "cultureCostModifier": 0.1,
         "barbarianModifier": 1.0,
         "goldGiftModifier": 1.0,
